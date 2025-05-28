@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Finland"
 site_theme               : "default"
-title                    : "Zhihu_Pan / Site Title"
+title                    : "Zhihu_Pan/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhihu_Pan"
 description              : &description "Venture into the unknown, grow beyond yourself"
@@ -26,10 +26,10 @@ author:
   name             : "Zhihu_Pan"
   pronouns         : # example: "she/her"  
   bio              : "Venture into the unknown, grow beyond yourself"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Finland"
+  employer         : "Turku University"
+  uri              : # https://zhihupan.github.io/ 
+  email            : "panzhihuzzz@163.com" 
 
   # Academic websites
   academia         : # URL
