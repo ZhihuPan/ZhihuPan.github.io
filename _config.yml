@@ -22,7 +22,7 @@ repository               : "https://github.com/ZhihuPan/zhihupan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/assets/images/Zhihu_Pan.png"
+  avatar           : "/images/Zhihu_Pan.png"
   name             : "Zhihu_Pan"
   pronouns         : # example: "she/her"  
   bio              : "Venture into the unknown, grow beyond yourself"
