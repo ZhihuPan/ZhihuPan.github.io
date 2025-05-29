@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "earth"
+locale                   : "en-US"
 site_theme               : "minimal"
 title                    : "Zhihu_Pan/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhihu_Pan"
-description              : &description "Venture into the unknown, grow beyond yourself"
-url                      : https://zhihupan.github.io/     #the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : "Zhihu_Pan"
+description              : "Venture into the unknown, grow beyond yourself"
+url                      : "https://zhihupan.github.io"    
 baseurl                  : "" 
 repository               : "https://github.com/ZhihuPan/zhihupan.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Venture into the unknown, grow beyond yourself"
   location         : "Finland"
-  employer         : "Turku University"
+  employer         : "University of Turku"
   uri              : "https://zhihupan.github.io/"
   email            : "panzhihuzzz@163.com" 
 
