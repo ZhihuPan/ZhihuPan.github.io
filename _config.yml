@@ -13,7 +13,7 @@ title                    : "Zhihu_Pan/Personal Homepage"
 title_separator          : "-"
 name                     : "Zhihu_Pan"
 description              : "Venture into the unknown, grow beyond yourself"
-url                      : "https://zhihupan.github.io"    
+url                      : https://zhihupan.github.io   
 baseurl                  : "" 
 repository               : "https://github.com/ZhihuPan/zhihupan.github.io"
 
