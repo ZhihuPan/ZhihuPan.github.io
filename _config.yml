@@ -12,7 +12,7 @@ site_theme               : "minimal"
 title                    : "Zhihu_Pan/Personal Homepage"
 title_separator          : "-"
 name                     : "Zhihu_Pan"
-description              : "Venture into the unknown, grow beyond yourself"
+description              : "Psychology PhD student at University of Turku"
 url                      : https://zhihupan.github.io   
 baseurl                  : "" 
 repository               : "https://github.com/ZhihuPan/zhihupan.github.io"
