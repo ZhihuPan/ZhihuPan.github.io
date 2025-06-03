@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "minimal"
-title                    : "Zhihu_Pan/Personal Homepage"
+title                    : "Zhihu Pan/Personal Homepage"
 title_separator          : "-"
-name                     : "Zhihu_Pan"
+name                     : "Zhihu Pan"
 description              : "Psychology PhD student at University of Turku"
 url                      : https://zhihupan.github.io   
 baseurl                  : "" 
@@ -23,7 +23,7 @@ repository               : "https://github.com/ZhihuPan/zhihupan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhihu_Pan"
+  name             : "Zhihu Pan"
   pronouns         : # example: "she/her"  
   bio              : "Psychology PhD student at University of Turku"
   location         : "Finland"
