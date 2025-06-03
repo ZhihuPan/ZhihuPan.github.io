@@ -22,10 +22,10 @@ repository               : "https://github.com/ZhihuPan/zhihupan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Zhihu_Pan.png"
+  avatar           : "profile.png"
   name             : "Zhihu_Pan"
   pronouns         : # example: "she/her"  
-  bio              : "Venture into the unknown, grow beyond yourself"
+  bio              : "Psychology PhD student at University of Turku"
   location         : "Finland"
   employer         : "University of Turku"
   uri              : "https://zhihupan.github.io/"
