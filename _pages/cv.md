@@ -57,13 +57,20 @@ Teaching
 Service and leadership
 ======
 * Research Assistant of Ye’s Lab, SCNU (1.7.2023 – present)
-  Managed laboratory-related matters.
-  Assisted in drafting project proposals.
-  Focus on visual working memory and its interaction with attention or emotion.
-  Act as main member of two projects (details shown in following parts).
-  Assist in an ERP study on memorability. Responsible for program coding in E-prime, data collection (60+), EEG data analysis via Matlab, visualization via OriginLab.
-  Assist in a behavioral study on retro-cue and facial memorability. Responsible for program coding in E-prime, data collection (90+), analysis via SPSS and JASP, visualization.
-  Have extensive experience in manuscript writing and revising according to reviewers ’ suggestion. Finish two manuscripts (two published)
+
+   Managed laboratory-related matters.
+  
+   Assisted in drafting project proposals.
+  
+   Focus on visual working memory and its interaction with attention or emotion.
+  
+   Act as main member of two projects (details shown in following parts).
+  
+   Assist in an ERP study on memorability. Responsible for program coding in E-prime, data collection (60+), EEG data analysis via Matlab, visualization via OriginLab.
+  
+   Assist in a behavioral study on retro-cue and facial memorability. Responsible for program coding in E-prime, data collection (90+), analysis via SPSS and JASP, visualization.
+  
+   Have extensive experience in manuscript writing and revising according to reviewers ’ suggestion. Finish two manuscripts (two published)
 
 
 * fMRI Operator(2023-2024)
