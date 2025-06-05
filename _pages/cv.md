@@ -45,12 +45,8 @@ Publications
 ======
 1. Pan, Z., Liu R., Guo, L., Ye, C. (2024) The Effect of Interference on Retro-cue Benefit in Visual Working Memory. Journal ofSichuan Normal University (Natural Science),47(02):179-187. https://doi.org/10.3969/j.issn.1001-8395.2024.02.004 (in Chinese with English abstract)
 
-2. Ye, C., Xu, Q., Pan, Z., Nie, Q.-Y., & Liu, Q. (2024). The differential impact of face distractors on visual working memory across encoding and delay stages. Attention, Perception, & Psychophysics, 86(6), 2029–2041.
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+2. Ye, C., Xu, Q., Pan, Z., Nie, Q.-Y., & Liu, Q. (2024). The differential impact of face distractors on visual working memory across encoding and delay stages. Attention, Perception, & Psychophysics, 86(6), 2029–2041. https://doi.org/10.3758/s13414-024-02895-6
+
   
 Teaching
 ======
