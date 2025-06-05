@@ -51,7 +51,9 @@ Publications
 Teaching
 ======
   Present lectures on visual working memory experimental studies and cognitive models in seminars of Ye’s Lab (in Chinese, 9.2022 – present).
+  
   Present lectures on visual attention and working memory. Organize discussions in Prof. Hong-jin Sun’s online Attention Bias Summer Camp (in English, 5.2023 – 6.2023)
+  
   Provided psychological counseling and administered assessments to adult and child patients. Assisted in a mental health outpatient clinic and participated in repetitive transcranial magnetic stimulation (rTMS) therapy. (in Chinese, Intern, Department of Psychosomatic Medicine, 11.2021 – 6.2022).
   
 Service and leadership
