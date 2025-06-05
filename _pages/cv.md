@@ -57,6 +57,7 @@ Teaching
 Service and leadership
 ======
 Research Assistant of Ye’s Lab, SCNU (1.7.2023 – present)
+
 Managed laboratory-related matters.
 Assisted in drafting project proposals.
 Focus on visual working memory and its interaction with attention or emotion.
@@ -66,4 +67,5 @@ Assist in a behavioral study on retro-cue and facial memorability. Responsible f
 Have extensive experience in manuscript writing and revising according to reviewers ’ suggestion. Finish two manuscripts (two published)
 
 fMRI Operator(2023-2024)
+
 Leadership experience in the China Longitudinal Study of Brain and Cognitive Development in School-Aged Children Project in SCNU: assumed responsibility for the efficient and effective operation of the fMRI scanning component of this large-scale longitudinal study. Duties included managing participant recruitment strategies, overseeing experimental preparation and protocol adherence, ensuring the integrity of data acquisition procedures, and implementing rigorous quality control measures. Acquired high-quality FMRI data from 182 school-aged children and trained a new MRI scanner operator to independently conduct scanning sessions.
