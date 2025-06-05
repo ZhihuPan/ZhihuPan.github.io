@@ -18,14 +18,18 @@ Education
 Research experience
 ======
 * Main Member of Delayed Distractor Effect Project, SCNU (PI: Dr. Chaoxiong Ye, 22.11.2023 – 9.9.2024)
+  
    . Manipulate the appearance phase of distractors (encoding vs. delayed vs. both) to elucidate the mechanisms of distraction resistance in the context of complex real-world stimuli. Results indicate that the VWM 
      performance was significantly impaired by delay-stage distractors, but remained unaffected during the encoding stage. This dissociated VWM distraction effect results from the absence of processing distractors during 
      the encoding stage, rather than the appearance of distractors during the delay or their abrupt emergence.
+  
    . Responsible for validation., review and editing.
   
 * Main Member of Retro-cue Benefit Project, SCNU (PI: Dr. Chaoxiong Ye, 23.6.2023 –12.3.2024)
+  
    . Based on a comprehensive review of prior relevant studies, four potential influencing factors—external interference, internal interference, interference temporal dynamics, and cue type—are identified to account for 
      the divergent findings observed in previous research. Furthermore, a cognitive model is proposed to elucidate the mechanisms by which interference affects the retrieval process of trace-back cues.
+  
    . Complete a review article in Journal of Sichuan Normal University (Natural Science)as the first author.
 
 * Attention Bias Summer Camp, online (5.2023 – 6.2023)
@@ -39,6 +43,7 @@ Research experience
   
    . Maintained close communication with Prof. Weizhen Xie (Associate Professor, Department of Psychology, University of California), participating in multiple online meetings to clarify project objectives and data 
      acquisition requirements.
+  
    . As the lead researcher responsible for fMRI data acquisition, independently completed preparatory work, including parameter configuration, subject recruitment, ensuring data quality and delivering high-quality data on 
      schedule(75 participants), laying a solid foundation for subsequent project analysis.
   
