@@ -50,8 +50,11 @@ Research experience
 Skills
 ======
 .      E-prime: Coding three behavioral experiments with change detection tasks.
+
 .      SPSS & JASP: Conducting ANOVA, classical or Bayesian t-test, correlation, and Logistic regression analysis.
+
 .      Matlab: Using eeglab to analyze EEG data. 
+
 .      Office: Proficient in Microsoft Office Suite (Word, Excel, PowerPoint), skilled in processing complex data and creating high-quality reports
 
 
