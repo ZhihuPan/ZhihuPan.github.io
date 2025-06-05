@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Finland, University of Turku, 2025 
+* M.S. in China, Sichuan Normal University, 2022
+* B.S. in China, Southwest Medical University, 2018
 
-Work experience
+# Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -43,10 +43,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+1. Pan, Z., Liu R., Guo, L., Ye, C. (2024) The Effect of Interference on Retro-cue Benefit in Visual Working Memory. Journal ofSichuan Normal University (Natural Science),47(02):179-187. https://doi.org/10.3969/j.issn.1001-8395.2024.02.004 (in Chinese with English abstract)
+
+2. Ye, C., Xu, Q., Pan, Z., Nie, Q.-Y., & Liu, Q. (2024). The differential impact of face distractors on visual working memory across encoding and delay stages. Attention, Perception, & Psychophysics, 86(6), 2029–2041.
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
