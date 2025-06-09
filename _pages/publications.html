@@ -5,32 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+Journal and conference papers
+------
+  
+* **GUO Li-jing**, YE Chao-Xiong, LONG Fang-fang, LIU Xin-yang, XIE Wei-Zhen. The Effect of Negative Emotional States on Short-term Memory Representations. Chinese Journal of Applied Psychology, 2023, 29(4): 352-364. 
+* [Download PDF here](http://LijingGu0.github.io/files/paper16.pdf)
+* Liu, R.,(co-first author), **Guo, L**.,(co-first author), Sun, H.-J., Parviainen, T., Zhou, Z., Cheng, Y., Liu, Q., & Ye, C. (2023). Sustained attention required for effective dimension-based retro-cue benefits in visual working memory. Journal of Vision, 23(5):13.
+* [Download PDF here](http://LijingGu0.github.io/files/paper6.pdf)
 
 
