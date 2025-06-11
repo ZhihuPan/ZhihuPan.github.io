@@ -1,19 +1,16 @@
+
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+
+Journal and conference papers
+------
+  
+* **Pan, Z**., Liu R., Guo, L., Ye, C. (2024) The Effect of Interference on Retro-cue Benefit in Visual Working Memory. Journal ofSichuan Normal University (Natural Science),47(02):179-187.
+* [Download PDF here](http://ZhihuPan.github.io/files/paper1.pdf)
+* Liu, R.,(co-first author), **Guo, L**.,(co-first author), Sun, H.-J., Parviainen, T., Zhou, Z., Cheng, Y., Liu, Q., & Ye, C. (2023). Sustained attention required for effective dimension-based retro-cue benefits in visual working memory. Journal of Vision, 23(5):13.
+* [Download PDF here](http://LijingGu0.github.io/files/paper6.pdf)
