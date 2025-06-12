@@ -3,7 +3,7 @@ title: "The Impact of Distractors on Retro-Cue Benefits in Visual Working Memory
 collection: publications
 category: published
 excerpt: 'Systematic review examining how distractors modulate retro-cue benefits in visual working memory, proposing a novel three-dimensional cognitive model.'
-date: 2024-03 
+date: 2024-03-01 
 venue: 'Journal of Sichuan Normal University (Natural Science Edition)'
 paperurl: 'http://ZhihuPan.github.io/files/paper1.pdf'
 ---
