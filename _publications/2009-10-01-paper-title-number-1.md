@@ -2,6 +2,7 @@
 title: "The differential impact of face distractors on visual working memory across encoding and delay stages"
 collection: publications
 category: published
+excerpt: 'Three experiments reveal visual working memory is vulnerable to delay-stage distractions with facial stimuli, but not encoding-stage. Effects depend on prior distractor processing, extending distraction resistance mechanisms to real-world contexts.'
 date: 2024-04-12 
 venue: 'Attention, Perception, & Psychophysics'
 paperurl: 'http://ZhihuPan.github.io/files/paper2.pdf'
